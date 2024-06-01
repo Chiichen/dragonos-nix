@@ -1,0 +1,3 @@
+[submodule "DragonOS"]
+	path = DragonOS
+	url = git@github.com:Chiichen/DragonOS.git
